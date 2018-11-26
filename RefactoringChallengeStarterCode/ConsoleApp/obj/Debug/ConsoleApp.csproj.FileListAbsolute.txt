@@ -1,0 +1,17 @@
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\bin\Debug\Dapper.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\bin\Debug\Dapper.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Tim\Source\Repos\DapperDemoDB\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\bin\Debug\Dapper.dll
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\bin\Debug\Dapper.xml
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\ConsoleApp\obj\Debug\ConsoleApp.pdb

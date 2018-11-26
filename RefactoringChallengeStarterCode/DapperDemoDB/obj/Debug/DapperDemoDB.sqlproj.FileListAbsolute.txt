@@ -1,0 +1,15 @@
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.dacpac
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.sqlprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\Model.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\refactor.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\predeploy.sql
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.pdb
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\DapperDemoDB\bin\Debug\DapperDemoDB.dacpac
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\DapperDemoDB\bin\Debug\DapperDemoDB.dll
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\DapperDemoDB\bin\Debug\DapperDemoDB.pdb
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\DapperDemoDB.dll
+C:\Suhasini\Computer Science\C Sharp\Tim Curry\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\DapperDemoDB.pdb

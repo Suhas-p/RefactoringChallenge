@@ -1,0 +1,18 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[SystemUser] (Table)
+       [dbo].[spSystemUser_Create] (Procedure)
+       [dbo].[spSystemUser_Get] (Procedure)
+       [dbo].[spSystemUser_GetFiltered] (Procedure)
+
+** Supporting actions
